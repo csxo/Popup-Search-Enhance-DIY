@@ -79,7 +79,7 @@
 - [ScriptCat (脚本猫)](https://scriptcat.org/)
 
 ### 2. 安装脚本
-打开页面：https://greasyfork.org/zh-CN/scripts/601177-popup-search-enhance-diy进行安装；
+打开页面：(https://greasyfork.org/zh-CN/scripts/601177-popup-search-enhance-diy)[https://greasyfork.org/zh-CN/scripts/601177-popup-search-enhance-diy]进行安装；
 下载或复制 [popsearch-enhance-diy.user.js](popsearch-enhance-diy.user.js)）的代码，在脚本管理器中「新建脚本」粘贴并保存，即可开启使用。
 
 ---
